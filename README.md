@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vinay Kumar Nara</h1>
-<h3 align="center">A passionate Java Backend developer</h3>
+<h3 align="left">A passionate Java Backend developer</h3>
 <img align = "right" alt = "coding"  width = "400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p>A headstrong and inquisitive, aspiring Back-End developer, highly skilled in engineering robust and scalable applications and web API designs using Java and SpringBoot. Effective remote collaborator with an immense passion for building good software, looking forward to a sparkling career as a Java Backend Developer.</p>
