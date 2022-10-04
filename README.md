@@ -28,4 +28,11 @@
 <p align="center">
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumar2n&theme=dark" /> <br \>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaykumar2n&show_icons=true&locale=en&theme=dark"/>
+   <br>
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vinaykumar2n&theme=xcode">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=vinaykumar2n&theme=monokai&row=1&column=4">
 </p>
+
+
+
+
