@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Hibernate and SQL**
 
-- 👨‍💻 Want to know more about me? Checkout [My Portfolio](https://vinaykumar-portfolio.netlify.app/)
+- 👨‍💻 Want to know more about me? Checkout [My Portfolio](https://vinaykumar-portfolio.netlify.app/) and [Resume](https://drive.google.com/file/d/1S1Fry0zfbR6IxqyuyWKN4BCiCUBGqRxb/view?usp=sharing)
 
 - 💬 Ask me about **Backend, Java, Spring, RestApi**
 
